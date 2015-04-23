@@ -1,0 +1,2 @@
+main.cmo : nanoLex.cmo nano.cmo
+main.cmx : nanoLex.cmx nano.cmx
